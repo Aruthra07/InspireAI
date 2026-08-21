@@ -670,10 +670,10 @@ Configure:
 `YOUR_LIVE_APP_URL`
 
 💻 **Source Code:**
-`YOUR_GITHUB_REPOSITORY_URL`
+`https://github.com/Aruthra07/InspireAI `
 
 📝 **AWS Builder Center Article:**
-`YOUR_BUILDER_CENTER_ARTICLE_URL`
+`https://builder.aws.com/content/3IEAywmHP5jvsV9jStkXtGWqysO/weekend-creative-agent-challenge-inspireai-an-always-on-ai-motivation-agent`
 
 ---
 
