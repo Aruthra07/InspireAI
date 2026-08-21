@@ -666,9 +666,6 @@ Configure:
 
 # 📌 Project Links
 
-🌐 **Live Application:**
-`YOUR_LIVE_APP_URL`
-
 💻 **Source Code:**
 `https://github.com/Aruthra07/InspireAI `
 
